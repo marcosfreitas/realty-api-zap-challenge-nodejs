@@ -12,7 +12,7 @@ Desenvolvido em uma máquina simples com:
 npm version: 6.13.0
 nodejs version: 12.13.0
 
-## How to run (Como executar)
+## How to run and test (Como executar e testar)
 
 First, this is the link to the Postman Collection with endpoint produced, download it and import into Postman App: https://www.getpostman.com/collections/6a483596df4f1161d0dd
 
